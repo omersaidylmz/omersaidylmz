@@ -1,12 +1,12 @@
-# 🚀✨ Hi Everyone  I am Ömer Said Yilmaz👋
+# 🚀✨ Hi Everyone I am Ömer Said Yilmaz👋
+## 🤖 Working as an Artificial Intelligence Developer.
 
-🤖  Working as a Artificial İntelligence Developer.
+## 🐍 Machine Learning and AI enthusiast (Worked & Built with PyTorch, OpenCV-Python, and Albumentations)
 
-🐍 Machine Learning and AI enthusiast (Worked & Build with Pytorch Opencv-python and Albumentation)
+## 🧾 Data Handling, Processing & Visualization (NumPy, Pandas, Matplotlib & Seaborn)
 
-🧾 Data Handling Processing & Visualization (Numpy Pandas Matplotlib & Seaborn)
+## 🧠 Actively working on Large Language Models (LLMs) and Generative AI, including image generation. ( Fine Tuning, RAG, Agent, Comfy UI, Stable Diffusion )
 
-🌱 Exploring Technical Content Writing.
+## 🌱 Exploring Technical Content Writing.
 
-⚡ In my free time I solve problems on Kaggle and read tech articles.
-
+## ⚡ In my free time, I solve problems on Kaggle and read tech articles.
